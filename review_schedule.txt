@@ -1,0 +1,27 @@
+// mon. //
+Go through examples
+Loop invariants examples
+
+// tue. //
+Go through examples
+ANKI
+
+// wed. //
+Go through examples
+Loop invariant examples
+
+// thur. //
+Go through examples
+ANKI
+
+// fri. //
+Go through examples
+Loop invariant examples
+
+// sat. //
+Go through examples
+ANKI
+
+// sun. //
+Go through examples
+Loop invariant examples
